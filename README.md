@@ -154,3 +154,5 @@ Me chamo Bryan Paz, tenho 18 anos e sou natural de SP. Concluí o ensino médio 
 
 <img src="https://raw.githubusercontent.com/BryanScripter/BryanScripter/output/snake.svg" alt="Snake animation" />
 </p>
+
+<img src="https://raw.githubusercontent.com/BryanScripter/BryanScripter/output/snake.svg" alt="Snake animation" />
