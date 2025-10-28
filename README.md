@@ -61,11 +61,11 @@ Sou **apaixonado por tecnologia**, curioso por natureza e estou sempre em busca 
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/BryanScripter/BryanScripter/blob/output/snake.svg" alt="Snake animation" />
 </p>
 
----
+--- -->
 
 ### 🌐 Onde me encontrar
 📧 **E-mail:** [eutedeco@gmail.com](mailto:eutedeco@gmail.com)  
