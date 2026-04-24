@@ -1,77 +1,107 @@
-<h1 align="center">🧑‍💻 Bryan Paz</h1>
-<h3 align="center">Desenvolvedor Full Stack</h3>
+<img src='https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=120&section=header' width='100%'/>
 
-<p align="center">
-  <a href="https://github.com/BryanScripter?tab=repositories&sort=stargazers">
-    <img src="https://custom-icon-badges.demolab.com/github/stars/BryanScripter?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas" alt="Total de estrelas GitHub" />
-  </a>
-  <a href="https://github.com/BryanScripter?tab=followers">
-    <img src="https://custom-icon-badges.demolab.com/github/followers/BryanScripter?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" alt="Seguidores" />
-  </a>
-  <a href="mailto:eutedeco@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF3C00?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/bryan-paz/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+![Apresentação](https://readme-typing-svg.demolab.com/?lines=Olá!+Meu+nome+é+Bryan+Paz.;&center=true&vCenter=true&size=45&width=1000&color=22c55e&font=Poppins)
 
 ---
 
-### 👋 Sobre mim
+## 👋 Sobre mim
 
-Olá! Me chamo **Bryan Paz**, tenho **18 anos** e sou natural de **São Paulo (SP)**.  
-Concluí o ensino médio no **Colégio Tales de Mileto** e atualmente curso **Análise e Desenvolvimento de Sistemas na FIAP**.  
-Sou **apaixonado por tecnologia**, curioso por natureza e estou sempre em busca de **aprimorar minhas habilidades** e **criar soluções inovadoras**.
-
----
-
-### ⚙️ Linguagens e Tecnologias
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" title="Oracle SQL" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" width="30" height="30"/>
-</p>
+Atualmente, estudante de **Análise e Desenvolvimento de Sistemas na FIAP**, com grande interesse em desenvolvimento Full Stack.  
+Sou apaixonado por tecnologia, curioso por natureza e sempre buscando evoluir minhas habilidades e criar soluções inovadoras.  
+Gosto de desafios, aprendizado constante e construir projetos que façam diferença.
 
 ---
 
-### 🧰 IDEs e Ferramentas
+<div align="center">
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="Visual Studio Code" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" width="30" height="30"/>
-</p>
+[![Linkedin](https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/bryan-paz/)
+[![Gmail](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:eutedeco@gmail.com)
 
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BryanScripter&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Bryan GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanScripter&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Top Langs"/>
-</p>
+</div>
 
 ---
 
-<!-- <p align="center">
-  <img src="https://github.com/BryanScripter/BryanScripter/blob/output/snake.svg" alt="Snake animation" />
-</p>
+## 💻 Áreas
 
---- -->
+### 🚀 Desenvolvimento Full Stack  
+### ⚙️ Backend & APIs  
+### 🎨 Frontend Moderno  
 
-### 🌐 Onde me encontrar
+---
 
-📧 **E-mail:** [eutedeco@gmail.com](mailto:eutedeco@gmail.com)  
-💼 **LinkedIn:** [bryan-paz](https://www.linkedin.com/in/bryan-paz/)  
-🐙 **GitHub:** [BryanScripter](https://github.com/BryanScripter)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 👨‍💻 Minhas Competências
+
+<div align="center">
+
+| Área              | Habilidades                                                                 |
+|-------------------|-----------------------------------------------------------------------------|
+| **Idiomas**       | Português, Inglês                                                           |
+| **Banco de Dados**| Oracle, PostgreSQL                                                          |
+| **Metodologias**  | SCRUM, Kanban, Agile                                                       |
+| **Ferramentas**   | Git, Figma, Notion                                                         |
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🚀 Linguagens
+
+<div align="center">
+
+[![HTML](https://img.icons8.com/?size=50&id=20909&format=png&color=000000)]()
+[![CSS](https://img.icons8.com/?size=50&id=21278&format=png&color=000000)]()
+[![JavaScript](https://img.icons8.com/?size=50&id=108784&format=png&color=000000)]()
+[![TypeScript](https://img.icons8.com/?size=50&id=wpZmKzk11AzJ&format=png&color=000000)]()
+[![Java](https://img.icons8.com/?size=50&id=13679&format=png&color=000000)]()
+[![Python](https://img.icons8.com/?size=50&id=13441&format=png&color=000000)]()
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## ⚡ Frameworks & Tecnologias
+
+<div align="center">
+
+[![React](https://img.icons8.com/?size=50&id=asWSSTBrDlTW&format=png&color=000000)]()
+[![Node](https://img.icons8.com/?size=50&id=54087&format=png&color=000000)]()
+[![Next](https://img.icons8.com/?size=50&id=yUdJlcKanVbh&format=png&color=000000)]()
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🛠️ Ferramentas
+
+<div align="center">
+
+[![VSCode](https://img.icons8.com/?size=50&id=9OGIyU8hrxW5&format=png&color=000000)]()
+[![IntelliJ](https://img.icons8.com/?size=50&id=61466&format=png&color=000000)]()
+[![Git](https://img.icons8.com/?size=50&id=20906&format=png&color=000000)]()
+[![Figma](https://img.icons8.com/?size=50&id=zfHRZ6i1Wg0U&format=png&color=000000)]()
+[![Notion](https://img.icons8.com/?size=50&id=nvtEH6DpqruC&format=png&color=000000)]()
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanScripter&layout=compact&theme=tokyonight)
+
+![Snake animation](https://github.com/BryanScripter/BryanScripter/blob/output/snake.svg)
+
+</div>
 
 ---
 
