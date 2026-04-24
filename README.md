@@ -99,7 +99,11 @@ Gosto de desafios, aprendizado constante e construir projetos que façam diferen
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanScripter&layout=compact&theme=tokyonight)
 
-![Snake animation](https://github.com/BryanScripter/BryanScripter/blob/output/snake.svg)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BryanScripter/BryanScripter/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BryanScripter/BryanScripter/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BryanScripter/BryanScripter/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
