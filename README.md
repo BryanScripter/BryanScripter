@@ -97,7 +97,7 @@ Gosto de desafios, aprendizado constante e construir projetos que façam diferen
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanScripter&layout=compact&theme=tokyonight)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanScripter&layout=compact&theme=tokyonight) -->
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BryanScripter/BryanScripter/output/github-contribution-grid-snake-dark.svg">
