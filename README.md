@@ -15,7 +15,7 @@ Gosto de desafios, aprendizado constante e construir projetos que façam diferen
 <div align="center">
 
 [![Linkedin](https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/bryan-paz/)
-[![Gmail](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:eutedeco@gmail.com)
+[![Gmail](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:contact.bryanpaz@gmail.com)
 
 </div>
 
